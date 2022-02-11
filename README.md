@@ -1,5 +1,7 @@
 # React Todo App
 
+[![CircleCI](https://circleci.com/github/ahmetsemsettinozdemirden/cypress-poc.svg?style=svg&circle-token=67a7fbbfaca0e32788cd7438ce93e44036838047)](https://circleci.com/github/ahmetsemsettinozdemirden/cypress-poc)
+
 This is a sample react todo app done step-by-step.
 This sample app was a part of react workshop.
 
